@@ -7,7 +7,7 @@ https://www.nodemedia.cn/product/node-media-server
 npm i
 
 ## 1.插入数据
-将需要导入的数据在excel中编辑
+将需要导入的数据在excel中编辑, tasks.xlsx
 
 ## 2.修改配置
 编辑app.js, 修改用户名\密码\服务器ip\端口
