@@ -1,0 +1,17 @@
+{
+  "name": "nms_import",
+  "version": "1.0.0",
+  "description": "NMSv3 转发任务快速导入工具",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Chen Mingliang",
+  "license": "",
+  "dependencies": {
+    "md5": "^2.3.0",
+    "node-xlsx": "^0.17.1",
+    "request": "^2.88.2"
+  }
+}
